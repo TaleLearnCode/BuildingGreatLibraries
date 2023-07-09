@@ -26,4 +26,4 @@ Learn how build class libraries that developers will enjoy using instead of thos
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
-This session has not been scheduled yet.
+| [Nebraska.Code()](https://nebraskacode.amegala.com/) | Lincoln, NE | July 20, 2023 | 1:00 pm CDT | Lancaster 4 | Available Afterwards |
