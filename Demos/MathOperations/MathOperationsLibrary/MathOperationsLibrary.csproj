@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>TaleLearnCode.MathOperationsLibrary</RootNamespace>
+    <AssemblyName>Glennis.PPM.ListingServices</AssemblyName>
+    <Version>0.0.1-beta</Version>
+    <Authors>TaleLearnCode</Authors>
+    <Product>Building Great Libraries</Product>
+    <Description>Provides a set of basic mathematic operation methods.  This is for presentation purposes only.</Description>
+    <Copyright>© 2023 Green Events and Technology.  All rights reserved.</Copyright>
+    <RepositoryUrl>https://github.com/TaleLearnCode/BuildingGreatLibraries</RepositoryUrl>
+    <PackageProjectUrl>https://www.chadgreen.com/presentations/building-great-libraries</PackageProjectUrl>
+    <Title>Math Operations Library (Demo)</Title>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>math;demo;presentation</PackageTags>
+    <PackageReleaseNotes>Producing the initial demo release of the TaleLearnCode Math Operations Library.</PackageReleaseNotes>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageReadmeFile>readme.md</PackageReadmeFile>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="readme.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
