@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Demos"
+    "\\Demos",
+    "\\Demos\\MathOperations",
+    "\\Demos\\MathOperations\\MathOperationsLibrary"
   ],
-  "SelectedNode": "\\Demos\\.gitignore",
+  "SelectedNode": "\\Demos\\MathOperations\\MathOperationsLibrary\\MathOperationsLibrary.csproj",
   "PreviewInSolutionExplorer": false
 }

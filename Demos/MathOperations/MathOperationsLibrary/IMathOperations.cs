@@ -1,5 +1,6 @@
 ﻿namespace TaleLearnCode.MathOperationsLibrary
 {
+	///
 	public interface IMathOperations
 	{
 

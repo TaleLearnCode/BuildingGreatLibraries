@@ -3,8 +3,8 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <RootNamespace>TaleLearnCode.MathOperationsLibrary</RootNamespace>
-    <AssemblyName>Glennis.PPM.ListingServices</AssemblyName>
-    <Version>0.0.1-beta</Version>
+    <AssemblyName>TaleLearnCode.MathOperationsLibrary</AssemblyName>
+    <Version>0.0.2-beta</Version>
     <Authors>TaleLearnCode</Authors>
     <Product>Building Great Libraries</Product>
     <Description>Provides a set of basic mathematic operation methods.  This is for presentation purposes only.</Description>
@@ -19,12 +19,14 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <PackageReadmeFile>readme.md</PackageReadmeFile>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
   </PropertyGroup>
 
   <ItemGroup>
     <None Update="readme.md">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>
 
