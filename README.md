@@ -26,4 +26,5 @@ Learn how build class libraries that developers will enjoy using instead of thos
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
+| [DevSpace](https://www.devspaceconf.com/sessions.html?id=934) | Huntsville, AL | October 23, 2023 | 1:00 pm CDT | Ballroom 3 | [Slides](Presentations/BuildingGreatLibraries-DevSpace2023.pdf) \  [Demo](Demos/MathOperations) |
 | [Nebraska.Code()](https://nebraskacode.amegala.com/) | Lincoln, NE | July 20, 2023 | 1:00 pm CDT | Lancaster 4 | [Slides](Presentations/BuildingGreatLibraries-NebraskaCode2023.pdf) \  [Demo](Demos/MathOperations) |
